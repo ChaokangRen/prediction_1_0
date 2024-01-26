@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="prediction_sample" name="prediction_sample" type="prediction_sample" respawn="false" output="screen">
+    </node>
+</launch>
